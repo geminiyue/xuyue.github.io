@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "MA Cong's Homepage"
+title                    : "Xu Yue's Homepage"
 title_separator          : "-"
-name                     : &name "MA Cong"
-description              : &description "I am now a Large Language Model Researcher in Byte Dance (Beijing)."
+name                     : &name "Xu Yue"
+description              : &description "I am now a Large Language Model Researcher in Huawei (Beijing)."
 url                      : https://geminiyue.github.io/xuyue_page.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ericongma.github.io"
+repository               : "xuyue_page.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160

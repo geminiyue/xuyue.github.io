@@ -11,8 +11,6 @@ redirect_from:
 
 I am now a Large Language Model Researcher in Huawei (Beijing).
 
-
-
 # Career
 
 - 2022.10 - Now: Huawei (Beijing)

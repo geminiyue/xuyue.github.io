@@ -35,5 +35,5 @@ Research Interests:
 * Natural Language Processing
 * Machine Translation
 * Text Image Machine Translation
-* Retrieval-Augmented GeneratioN
+* Retrieval-Augmented Generation
 

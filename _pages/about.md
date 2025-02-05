@@ -27,7 +27,7 @@ Education
 
 * 2011.09 - 2015.06: Bachelor, Hefei University of Technology
 
-Research Interests:
+Research Interests
 ======
 
 * Large Language Model
@@ -37,3 +37,13 @@ Research Interests:
 * Text Image Machine Translation
 * Retrieval-Augmented Generation
 
+Publications
+======
+
+* Xue Xu, Wenhao He, Fei Yin and Cheng-Lin Liu. Page Segmentation for Historical Handwritten Documents Using Fully
+Convolutional Networks. International Conference on Document Analysis and Recognition(ICDAR), 2017.
+* Yue Xu, Fei Yin, Zhaoxiang Zhang and Cheng-Lin Liu. Multi-task Layout Analysis for Historical Handwritten Documents
+Using Fully Convolutional Networks. International Joint Conference on ArtificialIntelligence(IJCAI), 2018.
+* Yue Xu, Fei Yin, Da-Han Wang, Xu-Yao Zhang, Zhaoxiang Zhang and Cheng-Lin Liu, CASIA-AHCDB: A Large-scale Chinese
+Ancient Handwritten Characters Database. International Conference on Document Analysis and Recognition(ICDAR), 2019.
+* 
